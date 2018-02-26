@@ -2,7 +2,7 @@
 
 ## Features
 
-* Managing your tasks using:
+Managing your tasks using:
 - JS
 - Jquery
 - Firebase
