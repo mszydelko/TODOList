@@ -4,7 +4,7 @@
 
 Managing your tasks using:
 - JS
-- Jquery
+- JQuery
 - Firebase
 - AJAX
 - RWD
