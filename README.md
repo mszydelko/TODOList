@@ -3,11 +3,11 @@
 ## Features
 
 * Managing your tasks using:
-** JS
-** Jquery
-** Firebase
-** AJAX
-** RWD
+- JS
+- Jquery
+- Firebase
+- AJAX
+- RWD
 
 ## LiveView
 
